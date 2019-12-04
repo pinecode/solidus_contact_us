@@ -17,7 +17,6 @@ Gem::Specification.new do |s|
   s.requirements << 'none'
 
   s.add_dependency 'solidus_core', '>= 1.4'
-  s.add_dependency 'solidus_static_content'
 	
   s.add_development_dependency 'capybara',         '~> 2.1'
   s.add_development_dependency 'coffee-rails'
