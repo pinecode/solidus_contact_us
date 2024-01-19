@@ -1,4 +1,3 @@
-require 'sass/rails'
 require 'solidus_core'
 require 'solidus_contact_us/engine'
 
